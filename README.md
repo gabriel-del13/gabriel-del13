@@ -1,11 +1,9 @@
 <div align="center">
-<h1> 
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&center=true&width=435&lines=Welcome+to+Gabriel+Del+Cid+Profile!)](https://git.io/typing-svg)
   
-</h1>
 </div>
-<br>
+
 
 ### **About Me**
 ---
