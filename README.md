@@ -32,9 +32,9 @@
 
 	[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) (in progress)
 
-- **Game Engine (Rookie)**:
+- **Cloud (Rookie)**:
   
-  [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+  [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 
 - **Other Tools**:<br>
 
