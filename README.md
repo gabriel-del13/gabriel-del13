@@ -9,7 +9,7 @@
 ---
 - Python Programmer 🐍
 - Currently learning Web Development Back-End by myself 🌐
-- I am currently looking for a company to do my **Professional Internship** 🧑‍🎓
+- I am currently looking for a company to work for 🧑‍💻
 - My goal is to go into cybersecurity 🛡️
 - I love video games 🎮
 
@@ -30,7 +30,7 @@
  
 - **Front-End Framework**:
 
-	[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) (in progress)
+	[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 
 - **Cloud**:
   
