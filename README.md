@@ -66,8 +66,12 @@
 ---
 ### My Github stats:
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-del13&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-summary-card-output/dracula/0-profile-details.svg)
+
+![](./profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](./profile-summary-card-output/dracula/2-most-commit-language.svg)
+
 </div>
 
 
