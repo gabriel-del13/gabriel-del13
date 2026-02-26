@@ -7,11 +7,12 @@
 
 ### **About Me**
 ---
-- Python Programmer 🐍
-- Currently learning Web Development Back-End by myself 🌐
-- I am currently looking for a company to work for 🧑‍💻
-- My goal is to go into cybersecurity 🛡️
-- I love video games 🎮
+- ☁️ AWS Developer Jr. at a bank in Panama
+- 🎓 AWS Cloud Practitioner Certified | Pursuing a Cloud Computing Master's Degree
+- 🐍 Python Programmer & Web Developer (Django + Angular)
+- 🌐 Building full-stack projects with Cloudflare Pages, R2, and CI/CD pipelines
+- 🛡️ Long-term goal: transition into Cybersecurity
+- 🎮 Video game enthusiast & anime fan
 
 ### **Knowledge**
 ---
