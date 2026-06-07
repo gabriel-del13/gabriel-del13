@@ -7,7 +7,7 @@
 
 ### **About Me**
 ---
-- ☁️ AWS Developer Jr. at a bank in Panama
+- ☁️ AWS Developer at a bank in Panama
 - 🎓 AWS Cloud Practitioner Certified | Pursuing a Cloud Computing Master's Degree
 - 🐍 Python Programmer & Web Developer (Django + Angular)
 - 🌐 Building full-stack projects with Cloudflare Pages, R2, and CI/CD pipelines
